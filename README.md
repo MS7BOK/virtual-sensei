@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Kyokushin Virtual Sensei
 
 A full-stack application that uses AI and computer vision to analyze martial arts movements and provide real-time feedback.
@@ -85,3 +86,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## License
 
 This project is licensed under the MIT License. 
+=======
+# virtual-sensei
+>>>>>>> c22bc3a1b01458a184d1508ab081d7cd4b4e85a6
